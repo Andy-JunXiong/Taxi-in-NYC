@@ -6,7 +6,7 @@ You are part of an analytics team engaged to support NYC taxis to identify oppor
 * https://archive.org/download/nycTaxiTripData2013/trip_data.7z
 * https://archive.org/download/nycTaxiTripData2013/trip_fare.7z
 
-## Exploratory Analysis
+## Exploratory Analysis and Training Models
 
 Below are a set of questions you have been given.
 
