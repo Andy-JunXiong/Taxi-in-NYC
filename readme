@@ -1,7 +1,6 @@
 You are part of an analytics team engaged to support NYC taxis to identify opportunities to improve their revenue or cut costs. 
 https://archive.org/download/nycTaxiTripData2013/trip_data.7z
 https://archive.org/download/nycTaxiTripData2013/trip_fare.7z
-Below are a set of questions you have been given.
 Exploratory Analysis
 1. What are busiest locations and hours?
 2. How are passengers per trip, payment type, fare and tip amounts distributed?
